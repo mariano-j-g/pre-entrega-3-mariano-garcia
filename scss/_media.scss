@@ -1,0 +1,26 @@
+/* seccion testimonios autopistas celestiales*/
+@media screen and (max-width: 800px) {
+  .testimonios-imagen {
+    height: 80px;
+    width: 80px;
+  }
+  .testimonio-texto {
+    font-size: 10px;
+  }
+}
+
+/* contactos */
+@media screen and (max-width: 767px) {
+  .left {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+/* nav bar media */
+@media screen and (max-width: 767px) {
+  .navbar-brand {
+    display: none;
+  }
+}

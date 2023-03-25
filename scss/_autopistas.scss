@@ -18,7 +18,6 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-
   padding: 10rem;
   .testimonios-imagen {
     height: 150px;
@@ -45,16 +44,5 @@
     font-size: 0.9rem;
     color: rgb(192, 21, 21);
     font-weight: bolder;
-  }
-}
-
-/* seccion testimonios */
-@media screen and (max-width: 800px) {
-  .testimonios-imagen {
-    height: 80px;
-    width: 80px;
-  }
-  .testimonio-texto {
-    font-size: 10px;
   }
 }
